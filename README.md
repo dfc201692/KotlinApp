@@ -7,6 +7,6 @@ una imagen
 un boton 
 y un evento toast o alerta.
 
-concatenación
+concatenación de dos textos 
 
 
